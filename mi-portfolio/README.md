@@ -9,14 +9,13 @@ https://dario2434.github.io/dor_dario/
 
 ## Tecnologías utilizadas
 
-- Vue 3 (Composition API)
-- Vite
-- TypeScript
-- Tailwind CSS
-- Vue Router
-- Node.js
-- GitHub Actions
-- GitHub Pages
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-42b883?logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?logo=github&logoColor=white)
+
 
 ---
 
