@@ -55,6 +55,7 @@ mi-portfolio/
 ├── vite.config.js
 ├── package.json
 └── tsconfig.json
+└── README.md
 ```
 
 ---
