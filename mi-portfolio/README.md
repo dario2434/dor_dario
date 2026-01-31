@@ -2,7 +2,7 @@
 
 Portfolio web profesional desarrollado con **Vue 3 + Vite + TypeScript + Tailwind CSS**, diseñado para presentar perfil, experiencia profesional, proyectos y habilidades técnicas, con despliegue automático en **GitHub Pages**.
 
-**Demo en producción**:  
+**Demo en producción(fallido)**:  
 https://dario2434.github.io/dor_dario/
 
 ---
@@ -93,7 +93,7 @@ Y es descargable desde la web.
 
 ---
 
-## Ator
+## Autor
 
 **Dario Acosta González**  
 darioacostagonzalez1@gmail.com
