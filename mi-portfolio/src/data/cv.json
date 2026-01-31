@@ -1,0 +1,189 @@
+{
+  "perfil": {
+    "nombre": "Dario Acosta González",
+    "titulo": "Desarrollador Web Full Stack",
+    "email": "darioacostagonzalez1@gmail.com",
+    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com/in/dario-acosta-gonz%C3%A1lez-9080803a7/",
+    "telefono": "672843092",
+    "direccion": "C/Montes Claros, Nº6. Los Realejos",
+    "sobreMi": "Apasionado por el mundo de la informática, especialmente en el montaje y desmontaje de ordenadores, la programación y la ciberseguridad. Me entusiasma trabajar con números y tecnología, siempre en busca de seguir aprendiendo y superándome. Destaco por mi organización, responsabilidad y compromiso con el trabajo, dando siempre lo mejor de mí en cada tarea que realizo.",
+    "foto": "/assets/foto-perfil.jpg",
+    "idiomas": [
+      { "nombre": "Castellano", "nivel": "Nativo" },
+      { "nombre": "Inglés", "nivel": "Alto" }
+    ],
+    "extras": ["Carné de conducir", "Vehículo propio", "Disponibilidad total"]
+  },
+  "proyectos": [
+    {
+      "id": "1",
+      "titulo": "Gestor de Tareas",
+      "descripcion": "Aplicación web para gestionar tareas diarias con funcionalidades de categorización, prioridades y recordatorios. Implementa autenticación de usuarios y persistencia de datos.",
+      "tecnologias": ["Vue.js", "TypeScript", "Tailwind CSS", "Node.js"],
+      "imagen": "",
+      "demoUrl": "https://prueba-demo-gestor-tareas",
+      "repoUrl": "https://github.com/dario2434/gestor-tareas"
+    },
+    {
+      "id": "2",
+      "titulo": "Portfolio Personal",
+      "descripcion": "Portfolio web profesional desarrollado con Vue 3 y TypeScript. Incluye secciones de proyectos, experiencia laboral y formulario de contacto.",
+      "tecnologias": ["Vue.js", "TypeScript", "Vite", "Tailwind CSS"],
+      "imagen": "",
+      "demoUrl": "https://localhost:5173",
+      "repoUrl": "https://github.com/dario2434/portfolio"
+    },
+    {
+      "id": "3",
+      "titulo": "API REST de Blog",
+      "descripcion": "Backend de un sistema de blog con autenticación, gestión de usuarios, posts y comentarios.",
+      "tecnologias": ["Node.js", "MongoDB"],
+      "imagen": "",
+      "demoUrl": "https://prueba-blog-demo",
+      "repoUrl": "https://github.com/dario2434/api-blog"
+    },
+    {
+      "id": "4",
+      "titulo": "E-commerce Demo",
+      "descripcion": "Tienda online ficticia con catálogo de productos, carrito de compras y proceso de compra simulado. Demo para prácticas de ciclo.",
+      "tecnologias": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      "imagen": "",
+      "demoUrl": "https://prueba-ecommerce-demo",
+      "repoUrl": "https://github.com/dario2434/ecommerce-demo"
+    }
+  ],
+  "habilidades": [
+    {
+      "id": "1",
+      "nombre": "Vue.js",
+      "logo": "/assets/logos/vue.svg",
+      "descripcion": "Framework progresivo para construir interfaces de usuario",
+      "nivel": 85,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "2",
+      "nombre": "TypeScript",
+      "logo": "/assets/logos/typescript.svg",
+      "descripcion": "Superset de JavaScript con tipado estático",
+      "nivel": 75,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "3",
+      "nombre": "JavaScript",
+      "logo": "/assets/logos/javascript.png",
+      "descripcion": "Lenguaje de programación para web dinámico",
+      "nivel": 80,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "4",
+      "nombre": "HTML5",
+      "logo": "/assets/logos/html5.svg",
+      "descripcion": "Lenguaje de marcado para estructurar contenido web",
+      "nivel": 90,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "5",
+      "nombre": "CSS3",
+      "logo": "/assets/logos/css3.svg",
+      "descripcion": "Estilos para la presentación de documentos HTML",
+      "nivel": 85,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "6",
+      "nombre": "Tailwind CSS",
+      "logo": "/assets/logos/tailwind.svg",
+      "descripcion": "Framework de CSS utilitario",
+      "nivel": 80,
+      "categoria": "Frontend"
+    },
+    {
+      "id": "7",
+      "nombre": "Node.js",
+      "logo": "/assets/logos/nodejs.svg",
+      "descripcion": "Entorno de ejecución JavaScript del lado del servidor",
+      "nivel": 70,
+      "categoria": "Backend"
+    },
+    {
+      "id": "11",
+      "nombre": "Git",
+      "logo": "/assets/logos/git.svg",
+      "descripcion": "Sistema de control de versiones distribuido",
+      "nivel": 80,
+      "categoria": "Tools"
+    },
+    {
+      "id": "12",
+      "nombre": "Linux",
+      "logo": "/assets/logos/temp.svg",
+      "descripcion": "Sistema operativo de código abierto",
+      "nivel": 70,
+      "categoria": "Other"
+    },
+    {
+      "id": "13",
+      "nombre": "Windows",
+      "logo": "/assets/logos/temp.svg",
+      "descripcion": "Sistema operativo de Microsoft",
+      "nivel": 85,
+      "categoria": "Other"
+    },
+    {
+      "id": "14",
+      "nombre": "Redes",
+      "logo": "/assets/logos/temp.svg",
+      "descripcion": "Mantenimiento y resolución de problemas de redes",
+      "nivel": 75,
+      "categoria": "Other"
+    },
+    {
+      "id": "15",
+      "nombre": "Hardware",
+      "logo": "/assets/logos/temp.svg",
+      "descripcion": "Ensamblaje y configuración profesional de hardware",
+      "nivel": 85,
+      "categoria": "Other"
+    }
+  ],
+  "experiencia": [
+    {
+      "id": "1",
+      "cargo": "Desarrollador Web - Prácticas ERASMUS+",
+      "empresa": "ERASMUS+ KA131 mobility",
+      "periodo": "Marzo 2024 - Mayo 2024",
+      "descripcion": "Realización de prácticas profesionales en el desarrollo de aplicaciones web. Colaboración en proyectos reales utilizando tecnologías modernas como Vue.js y Node.js.",
+      "tecnologias": ["Vue.js", "JavaScript", "HTML", "CSS", "Git"]
+    },
+
+    {
+      "id": "3",
+      "cargo": "Estudiante CFGS DAW",
+      "empresa": "Centro Educativo",
+      "periodo": "Septiembre 2024 - Actualidad",
+      "descripcion": "Formación en Desarrollo de Aplicaciones Web. Aprendizaje de tecnologías front-end y back-end, bases de datos, y metodologías de desarrollo ágil.",
+      "tecnologias": ["Vue.js", "Node.js", "PHP", "HTML/CSS"]
+    },
+    {
+      "id": "4",
+      "cargo": "Estudiante CFGS ASIR",
+      "empresa": "Centro Educativo",
+      "periodo": "Septiembre 2022 - Junio 2024",
+      "descripcion": "Formación en Administración de Sistemas Informáticos en Red. Aprendizaje de gestión de servidores, redes, seguridad y virtualización.",
+      "tecnologias": ["Linux", "Windows Server", "Seguridad"]
+    },
+    {
+      "id": "5",
+      "cargo": "Estudiante CFGM SMR",
+      "empresa": "Centro Educativo",
+      "periodo": "Septiembre 2020 - Junio 2022",
+      "descripcion": "Formación en Sistemas Microinformáticos y Redes. Fundamentos de hardware, mantenimiento de equipos y configuración de redes locales.",
+      "tecnologias": ["Hardware", "Redes", "Sistemas Operativos"]
+    }
+  ]
+}
