@@ -98,7 +98,7 @@ Y es descargable desde la web.
 ## Ator
 
 **Dario Acosta González**  
-📧 darioacostagonzalez1@gmail.com
+darioacostagonzalez1@gmail.com
 
 ---
 
